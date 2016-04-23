@@ -1,4 +1,4 @@
-#####Enwitched - A GUI frontend for Steam-Idle
+#Enwitched - A GUI frontend for Steam-Idle
 
 A little app for idling with ease in Steam Client
 
