@@ -19,7 +19,7 @@ You also won't get any achievements too. Just a bunch of cards, if any card drop
 Read the disclaimer inside the program. (tl;dr: You can't blame me if your account gets blocked!)
 
 View the instruction video below if you're confused.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hM5Xdr86EC4?rel=0" frameborder="0" allowfullscreen></iframe>
+* [Click Here](https://www.youtube.com/watch?v=hM5Xdr86EC4)
 
 This project uses UGUI. Check them out below!
 
