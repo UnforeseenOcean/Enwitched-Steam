@@ -1,3 +1,15 @@
+#####Enwitched - A GUI frontend for Steam-Idle
+A little app for idling with ease in Steam Client
+100% Hackable, 100% free
+Easy to use, type-and-go idler client
+
+This is Enwitched, an frontend made just for doing idling jobs with Steam-Idle.
+Follow the steps inside and you'll be idling in games with ease.
+Low power & no GPU power required (except for displaying GUI). Runs on laptop too.
+Emulates the game being run, so the client thinks the player is playing. Won't play games you don't own!
+You also won't get any achievements too. Just a bunch of cards, if any card drops are left.
+Read the disclaimer inside the program. (tl;dr: You can't blame me if your account gets blocked!)
+
 This project uses UGUI. Check them out below!
 http://ugui.io/
 Version used: UGUI V1.3.0.a
@@ -6,7 +18,7 @@ This project uses Idle-Master's component, Steam-Idle.exe.
 (Compiled version from official page)
 Check the father project here: https://github.com/jshackles/idle_master
 
-This project uses NW.js. Please supply your own nw.dll because GitHub could not upload it.
+This project uses NW.js. Unpack nw.7z and put nw.dll in the root directory next to Enwitched.exe (renamed nw.exe)
 
 ###Credits
 
