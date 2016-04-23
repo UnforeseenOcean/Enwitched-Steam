@@ -54,3 +54,5 @@ This project uses NW.js. Unpack nw.7z and put nw.dll in the root directory next 
 * [Bootstrap Dropdowns Enhancement](http://behigh.github.io/bootstrap_dropdowns_enhancement)
 * [Cut, Copy, Paste Context Menu](https://github.com/b1rdex/nw-contextmenu)
 * [Sass](http://sass-lang.com) - Just cuz it's awesome
+
+p.s. The name comes from The Witcher game series, which originally this app was designed for. (enwitched.cmd, 200b)
