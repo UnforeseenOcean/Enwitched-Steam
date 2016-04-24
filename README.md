@@ -42,6 +42,7 @@ This project uses NW.js. Unpack nw.7z and put nw.dll in the root directory next 
 * [Stephan Raab](http://github.com/StephanRaab) - UGUI Website Designer
 * [Grahammer](http://github.com/GWatt) - UGUI Engine Architecture Consultant
 * [Boyma Fahnbulleh](http://github.com/boymanjor) - Beta, Realworld, and OSX testing
+* [Anonymous User 034a48] - Korean translation
 
 **Technology**
 * [Idle Master] (https://github.com/jshackles/idle_master) - Abandoned, but still works
