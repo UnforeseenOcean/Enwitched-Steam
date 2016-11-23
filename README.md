@@ -42,7 +42,7 @@ This project uses NW.js. Unpack nw.7z and put nw.dll in the root directory next 
 * [Stephan Raab](http://github.com/StephanRaab) - UGUI Website Designer
 * [Grahammer](http://github.com/GWatt) - UGUI Engine Architecture Consultant
 * [Boyma Fahnbulleh](http://github.com/boymanjor) - Beta, Realworld, and OSX testing
-* [Anonymous User 034a48] - Korean translation
+* Anonymous User 034a48 - Korean translation
 
 **Technology**
 * [Idle Master] (https://github.com/jshackles/idle_master) - Abandoned, but still works
@@ -68,3 +68,8 @@ p.s. The name comes from The Witcher game series, which originally this app was 
 4. Add practicality
 5. Implement "Stop Idling" function
 6. Fix UGUI script
+
+## License
+This project follows the original license from Idle-master project (GPL).
+
+You may redistribute this project under GPLv3 license (but please follow original license from each projects involved in this repo)
