@@ -60,3 +60,11 @@ This project uses NW.js. Unpack nw.7z and put nw.dll in the root directory next 
 * [Sass](http://sass-lang.com) - Just cuz it's awesome
 
 p.s. The name comes from The Witcher game series, which originally this app was designed for. (enwitched.cmd, 200b)
+
+## TODO
+1. Use Qt as frontend, since HTML5 parser (nw.exe) has large overhead due to it being a web browser
+2. Enable read from CSV or INI files so idling multiple games is possible
+3. Automatic scheduling of game idling
+4. Add practicality
+5. Implement "Stop Idling" function
+6. Fix UGUI script
